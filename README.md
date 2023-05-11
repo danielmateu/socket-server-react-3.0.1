@@ -1,4 +1,4 @@
-# Socket Server
+# Socket Server For tickets app
 
 Este backend contiene todo lo necesario para configurar un servidor de express + socket.io.
 
